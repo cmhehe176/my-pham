@@ -1,12 +1,12 @@
 {
-  "name": "cdtt",
+  "name": "ndmc",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nhom 17",
+  "author": "ndmc",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
