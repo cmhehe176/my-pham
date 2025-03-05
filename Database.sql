@@ -34,8 +34,8 @@ CREATE TABLE `admin` (
   PRIMARY KEY (`idadmin`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 insert into `admin` (`user`,`password`) values
-('nhom17','12345'),
-('nhom17@gmail.com','1');
+('ndmc','1234'),
+('ndmc@gmail.com','1');
 
 CREATE TABLE `thuonghieu` (
   `idTH` INT NOT NULL AUTO_INCREMENT,
